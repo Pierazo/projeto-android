@@ -76,7 +76,7 @@ header>p {
     /*Esse padding e para reajustar quando diminuir a tela */
     padding-right: 10px;
     text-shadow: 2px 2px 0px rgba(0, 0, 0, 0.785);
-    margin-bottom: 20px;
+    padding-bottom: 50px;
     /*ecpaço um do outro*/
 }
 
